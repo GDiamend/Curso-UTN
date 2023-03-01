@@ -1,1 +1,2 @@
-Modificación desde Visual Studio para generar conflicto
+En este caso borro ambas líneas dado que ninguna es necesaria.
+En un caso necesario. debería elegir que cambios mantengo y cuales elimino
